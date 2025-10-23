@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Joaquim Alberto",
+        "id": "A101",
+        "notas": [
+            14.0,
+            13.0,
+            15.0
+        ]
+    },
+    {
+        "nome": "Z\u00e9 Manuel",
+        "id": "B909",
+        "notas": [
+            17.0,
+            15.0,
+            18.0
+        ]
+    },
+    {
+        "nome": "Maria Alves",
+        "id": "A409",
+        "notas": [
+            19.0,
+            12.0,
+            14.0
+        ]
+    },
+    {
+        "nome": "Odete Gomes",
+        "id": "B456",
+        "notas": [
+            20.0,
+            17.0,
+            18.0
+        ]
+    },
+    {
+        "nome": "Josefina Torres",
+        "id": "B423",
+        "notas": [
+            12.0,
+            10.0,
+            11.0
+        ]
+    }
+]
